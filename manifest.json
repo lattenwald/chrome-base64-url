@@ -1,6 +1,6 @@
 {
   "name": "Base64 URL",
-  "version": "1.0",
+  "version": "1.1",
   "description": "To use, type 'b64' plus a base64-encoded url in your search box. Visit base64-encoded URLs as if they were plain-text!",
   "author": "Alexander Q <qalexx@gmail.com>",
   "manifest_version": 2,
